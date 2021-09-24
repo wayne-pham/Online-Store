@@ -11,6 +11,6 @@ This version of the online store will utilize design patterns.
 
 4. open up a different terminal and ssh into rrpc02 
 
-5. Be sure that you cd into the base directory. 
+5. Be sure to move (cd) into the base directory. 
 
 6. run 'make clientside' to run the program. 

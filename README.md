@@ -1,7 +1,12 @@
-# online-store-v2
+
+
+
+## NOTE: The text below is meant to be ran on IUPUI's custom Linux distros called Tesla and rrpc. This is here for archiving purposes. Please do not follow these commands (or do so at your own risk) 
+
+### online-store-v2
 This version of the online store will utilize design patterns.
 
-# steps to run the program
+### steps to run the program
 
 1. ssh into rrpc01 and set the rmi port to 2020
 
